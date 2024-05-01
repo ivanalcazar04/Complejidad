@@ -11,7 +11,7 @@ public class Jugando {
 
     public void tocarvariables() {
         isVerdad = !isMentira;
-        nombre = "Irene Garcia Manceras";
+        nombre = "Ivan Alcazar Senen";
         edad = miEdad.intValue();
     }
 
